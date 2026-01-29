@@ -1,9 +1,9 @@
 package Test;
 
-import Base.BaseClass;
-import Pages.FinalCart_PlaceOrder;
-import Pages.Common_header;
-import Pages.Products_PlaceOrder;
+import base.BaseClass;
+import pages.FinalCart_PlaceOrder;
+import pages.Common_header;
+import pages.Products_PlaceOrder;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 

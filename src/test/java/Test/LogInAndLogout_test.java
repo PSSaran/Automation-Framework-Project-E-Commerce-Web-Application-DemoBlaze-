@@ -1,10 +1,10 @@
 package Test;
 
-import Base.BaseClass;
-import Pages.Common_header;
-import Pages.FinalCart_PlaceOrder;
-import Pages.Home_page;
-import Pages.Products_PlaceOrder;
+import base.BaseClass;
+import pages.Common_header;
+import pages.FinalCart_PlaceOrder;
+import pages.Home_page;
+import pages.Products_PlaceOrder;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

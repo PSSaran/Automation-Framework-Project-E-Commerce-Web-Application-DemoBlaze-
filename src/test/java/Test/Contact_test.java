@@ -1,7 +1,7 @@
 package Test;
 
-import Base.BaseClass;
-import Pages.Common_header;
+import base.BaseClass;
+import pages.Common_header;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 

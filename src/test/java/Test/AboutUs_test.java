@@ -1,13 +1,9 @@
 package Test;
 
-import Base.BaseClass;
-import Pages.Common_header;
-import org.openqa.selenium.support.ui.ExpectedConditions;
+import base.BaseClass;
+import pages.Common_header;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import org.testng.internal.invokers.ExpectedExceptionsHolder;
-
-import java.lang.classfile.instruction.ExceptionCatch;
 
 public class AboutUs_test extends BaseClass {
     Common_header About_us;
